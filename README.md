@@ -4,8 +4,6 @@
 
 ![demo](./img/scrape_demo.gif)
 
-<br>
-
 # How to install and run the project
 
 1. Install `Python3 +`
